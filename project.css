@@ -60,7 +60,7 @@
 
  ul li a:hover{
     color: rgb(23, 73, 223);
-
+    transform: 12s
 }
 h1{
     padding: 40px;
@@ -74,7 +74,7 @@ p{
     padding-left: 50px;
 }
 body {
-    background-image: url(./Subtract\ \(3\).png);
+    background-image: url(.asssets/Subtract\ \(3\).png);
 }
 .explore{
     padding: 20px;
